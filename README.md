@@ -1,7 +1,7 @@
 ## Networking
 
 What happens when we google something in browser ?
-![Screenshot 2023-04-10 at 7.31.45 PM.png](:/9c4e24214c53431a8eea8627bf2b26ab)
+![alt text](https://github.com/sharooque7/Computer-Networks/blob/main/Screenshot%202023-04-10%20at%207.31.45%20PM.png?raw=true)
 
 ### DNS in Networks
 DNS, or Domain Name System, is a system used in computer networks to convert domain names into IP addresses. When you enter a website's URL into your web browser, DNS is used to translate the domain name into an IP address, which allows your computer to communicate with the web server that hosts the website.
@@ -117,7 +117,7 @@ nmap -p 1-1000 <target IP address>
 ```
 This command will scan ports 1-1000 on the target system and display the status of each ports
 
-![domain.png](:/dcbc1c3622714825bfca9ebb1d6f48a9)
+![alt text](https://github.com/sharooque7/Computer-Networks/blob/main/domain.png?raw=true)
 
 ## Classes in Computer Networks
 Classes in computer networks refer to the range of IP addresses that are assigned to networks based on their size. There are three classes of IP addresses: A, B, and C. Each class of IP address has a different range of addresses that can be assigned to a network.
